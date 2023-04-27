@@ -4,7 +4,7 @@ This Repository contains codes related to ambience monitoring
 
 # ESP8266 Ambience Sensing with Wi-Fi
 
-![image](https://user-images.githubusercontent.com/87240174/234351351-b54bd5c1-42e6-43b2-8966-1699d26325d4.jpg)
+![image (2)](https://user-images.githubusercontent.com/87240174/234977351-7dacc636-1168-4732-a688-0d6b8f782801.jpg)
 
 
 # Motion detection with ESPNOW
