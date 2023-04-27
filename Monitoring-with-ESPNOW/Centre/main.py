@@ -23,7 +23,7 @@ def espnow_rx():
     e = espnow.ESPNow()                  # Enable ESP-NOW
     e.active(True)
 
-    peer = b'\x48\x55\x19\x00\x20\x05'   # MAC address of peer's wifi interface
+    peer = b'\xaa\xaa\xaa\xaa\xaa\xaa'   # MAC address of peer's wifi interface
     e.add_peer(peer)                     # Sender's MAC registration
     var0 = 0
     var1 = 0
